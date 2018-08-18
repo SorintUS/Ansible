@@ -23,4 +23,10 @@ This users has to be used to generate a new ssh key and to connect via ssh to th
 
 Install ansible on control node
 
+Create on ansadm home an inventory
+
 Use Ansible to verify connectivity
+
+Verify with an ad-hoc whether yum specific packages are installed (bash and dos2unix)
+
+Write a playbook to install the missing package
