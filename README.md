@@ -1,13 +1,13 @@
 # Ansible
 
 # Vagrant configuration
-#Start the Vagrant deployment using the Vagrantfile
+#Start the Vagrant deployment using the Vagrantfile:
 vagrant up
 
-#Verify vagrant configuration
+#Verify vagrant configuration:
 vagrant ssh-config
 
-#Connect to mgmt host (your control node)
+#Connect to mgmt host (your control node):
 vagrant ssh mgmt
 
 # Control node (mgmt) configuration
