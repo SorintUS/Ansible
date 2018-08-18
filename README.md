@@ -35,6 +35,7 @@ Write a playbook to install the missing package
 ##############
 # EXERCISE 1 #
 ##############
+\n
 #Write your own playbook file to do this on the webserver host:
 #- install pip with the yum module (python-pip)
 #- install flask with the pip module
