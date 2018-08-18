@@ -10,8 +10,8 @@ vagrant ssh-config
 #Connect to mgmt host (your control node):
 vagrant ssh mgmt
 
-# Control node (mgmt) configuration
-#Verify you can ping the two hosts we are going to manage
+# Nodes configuration
+#Verify you can ping the two hosts we are going to manage from the control node
 
 #Create an entry for all servers in the hosts file
 
