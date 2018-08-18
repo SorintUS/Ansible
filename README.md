@@ -24,3 +24,6 @@ vagrant ssh mgmt
 #Install ansible
 
 #Test the connection
+
+# Practice
+Use Ansible to verify connectivity
