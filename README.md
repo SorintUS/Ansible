@@ -56,6 +56,7 @@ You can test it from the mgmt server with cURL: curl http://192.168.56.20:5000
 ##############
 # EXERCISE 2 #
 ##############
+
 Write your own playbook file to do the following:
 On the 'database' server only
  - install Redis on the database host
