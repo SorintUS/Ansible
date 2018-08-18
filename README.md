@@ -51,5 +51,15 @@ TIP4: This is the task to run the app.py
   - name: Start the script
     shell: cd /root ;  nohup python app.py </dev/null >/dev/null 2>&1 &
 
-You can test it from the mgmt server with cURL:
-curl http://192.168.56.20:5000
+You can test it from the mgmt server with cURL: curl http://192.168.56.20:5000
+
+##############
+# EXERCISE 2 #
+##############
+Write your own playbook file to do the following:
+On the 'database' server only
+ - install Redis on the database host
+ - ensure the /etc/redis.conf file has the "bind 127.0.0.1" line commented out
+ - ensure the redis service is started
+
+Check if Redis is working
