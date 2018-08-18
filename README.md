@@ -64,3 +64,19 @@ On the 'database' server only
  - ensure the redis service is started
 
 Check if Redis is working
+
+
+##############
+# EXERCISE 3 #
+##############
+
+[Work in progress]
+
+Install and use the role: geerlingguy.postgresql
+...to be complete
+
+##############
+# EXERCISE 4 #
+##############
+
+[Vault file - Work in progress]
